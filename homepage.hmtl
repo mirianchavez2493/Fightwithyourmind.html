@@ -1,3 +1,5 @@
+
+
 <!DOCTYPE html>
 <html>
 
@@ -23,20 +25,23 @@ li a {
   color: black;
   text-align: center;
   font-size: 22px;
-  padding: 16px;
+  padding: 30px;
   text-decoration: none;
+  font-size: 25px;
 }
 
 li a:hover {
   background-color: #800020;
+  color: white
 }
 </style>
 </head>
 
 
 <ul>
-<li><a href="californiasearch.html"><b>Search</b></a></li>
+<li><a href="californiasearch.html"><b>Law Information/Scenarios</b></a></li>
 <li><a href="youthopportunities.html"><b>Youth Opportunities</b></a></li>
+<li><a href="Links.html"><b>Links for Extra Resources</b></a></li>
 
 
 
@@ -46,9 +51,9 @@ li a:hover {
 <br></br>
 <br></br>
 
-<p style="text-align:center; color:#8C001A;font-size:24px; "><b>Statistics Show:</b></p>
+<p style="text-align:center; color:#8C001A;font-size:24px; "><b>Did You Know?</b></p>
 <p></p>
-  <q style = "font-size:20px;">According to the Newseum's 2015 State of the Amendment Survey, 57 percent of the 1,002
+  <q style = "font-size:20px;text-align:center;">According to the Newseum's 2015 State of the Amendment Survey,<br> 57 percent of the 1,002
     American adults surveyed knew that the First Amendment includes the right to free speech ... and thirty-three percent of Americans cannot name
     any of the rights guaranteed by the First Amendment.</q>
 <p></p>
@@ -76,18 +81,20 @@ http://www.washingtonexaminer.com</p>
     Fun Fact: I really like photography. </p>
     <br>
     <br>
-<p style = "font-size:20px;"> Name: Mirian Chavez <br>
+<img src="realmirian.JPG" alt="Mariann Picture" style="float:right;width:160px;height:150px;"> <p style = "font-size:20px;"> Name: Mirian Chavez <br>
   City: Oakland<br>
-  High School : Oakland Charter High School
+  High School : Oakland Charter High School<br>
   Fun Fact: I won a poetry contest and now<br> I have a book with my name.</p>
-  <p style = "font-size:20px;"> Name:Juritzy Mata <br>
+  <br>
+<img src="juritzy.JPG" alt="Sita Picture" style="float:right;width:180px;height:140px;"><p style = "font-size:20px;"> Name:Juritzy Mata <br>
   City: Richmond<br>
-  High School : Making Waves Academy
-  Fun Fact:I'm really into social justice<br>abuse.</p>
-  <p style = "font-size:20px;"> Name: Mariann Guzman<br>
+  High School : Making Waves Academy <br>
+  Fun Fact:I'm really into social justice. <br></p>
+  <br>
+  <img src="mariann.JPG" alt="Mariann Picture" style="float:right;width:180px;height:140px;">  <p style = "font-size:20px;"> Name: Mariann Guzman<br>
 City: San Francisco<br>
 High School : Lowell High School<br>
-Fun Fact: I love visiting national<br> parks and hiking.  </p>
+Fun Fact: I love visiting national<br> parks and hiking.</p>
 
 </body>
 <html>
@@ -97,6 +104,9 @@ Fun Fact: I love visiting national<br> parks and hiking.  </p>
 </style>
 </body>
 <html>
+
+
+
 
 
 
