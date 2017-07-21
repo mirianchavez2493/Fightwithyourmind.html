@@ -1,10 +1,26 @@
-
-
 <!DOCTYPE html>
 <html>
+<head>
 
+<style>
+body{
+    background: url(lawpicture.JPG);
+    background-repeat: no-repeat;
+    background-position: top;
+    background-size:100% 20%;
+}
+</style>
+</head>
 
-<h1 style="text-align:center; color:#8C001A; font-size:100px; border: 15px solid black;"> Fight with your Mind </h1>
+<h1 style="text-align:center;color:white;font-size:100px;"> Fight with your Mind </h1>
+
+</body>
+</head>
+</style>
+  <br>
+  <br>
+  <br>
+
 <body>
 <style>
 ul {
@@ -36,24 +52,26 @@ li a:hover {
 }
 </style>
 </head>
-
+</ul>
 
 <ul>
-<li><a href="californiasearch.html"><b>Law Information/Scenarios</b></a></li>
+<li><a href="californiasearch.html"><b>Search</b></a></li>
 <li><a href="youthopportunities.html"><b>Youth Opportunities</b></a></li>
 <li><a href="Links.html"><b>Links for Extra Resources</b></a></li>
 
-
+</div>
 
 <body background-color = #F5F5DC;>
+<br>
+<br>
+<br>
+<br>
 
 
-<br></br>
-<br></br>
 
-<p style="text-align:center; color:#8C001A;font-size:24px; "><b>Did You Know?</b></p>
+<p style="text-align:center; color:#8C001A;font-size:24px; "><b>Did you know?</b></p>
 <p></p>
-  <q style = "font-size:20px;text-align:center;">According to the Newseum's 2015 State of the Amendment Survey,<br> 57 percent of the 1,002
+  <q style = "font-size:20px;">According to the Newseum's 2015 State of the Amendment Survey, 57 percent of the 1,002
     American adults surveyed knew that the First Amendment includes the right to free speech ... and thirty-three percent of Americans cannot name
     any of the rights guaranteed by the First Amendment.</q>
 <p></p>
@@ -104,16 +122,6 @@ Fun Fact: I love visiting national<br> parks and hiking.</p>
 </style>
 </body>
 <html>
-
-
-
-
-
-
-
-
-
-
 
 
 
